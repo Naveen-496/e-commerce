@@ -1,0 +1,48 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715405482431,
+      "tag": "0000_rapid_yellow_claw",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715405873785,
+      "tag": "0001_pretty_justice",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1715496133625,
+      "tag": "0002_init_db",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1715496330605,
+      "tag": "0003_change",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1715498115061,
+      "tag": "0004_regular_annihilus",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1715499515767,
+      "tag": "0005_todos",
+      "breakpoints": true
+    }
+  ]
+}
